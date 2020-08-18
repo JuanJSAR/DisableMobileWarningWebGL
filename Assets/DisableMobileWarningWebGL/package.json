@@ -1,0 +1,11 @@
+{
+    "name": "com.webgl.disablemobilewarning",
+    "displayName": "WebGL Disable Mobile Warning",
+    "version": "1.0.0",
+    "unity": "2017.4",
+    "description": "Removes the lines of code that generate the warning on mobile devices when opening the project in WebGL",
+    "keywords": [ "webgl", "mobile", "disable", "warning", "utility" ],
+    "license": "CC0",
+    "category": "Utility",
+    "dependencies": {}
+}
